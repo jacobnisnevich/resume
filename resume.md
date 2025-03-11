@@ -1,60 +1,67 @@
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+# Jacob Nisnevich
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
+- <jacob.nisnevich@mail.com>
+- (818) 519-0127
+- [github.com/jacobnisnevich](https://github.com/jacobnisnevich/)
+- Seattle, WA
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+Staff Software Engineer with experience building and architecting systems across the stack. Currently working on developing AI/LLM-powered applications at enterprise scale.
 
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
+### <span>Staff Software Engineer,  Qualtrics</span> <span>May 2023 -- Present</span>
+**Seattle, WA**
 
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
+ - TODO
+ - TODO
+ - TODO
 
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
+### <span>Senior Software Engineer,  Qualtrics</span> <span>May 2021 -- May 2023</span>
+**Seattle, WA**
 
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
+ - TODO
+ - TODO
+ - TODO
 
-Global movement of free coding clubs for young people.
+### <span>Software Engineer II,  Qualtrics</span> <span>May 2019 -- May 2021</span>
+**Seattle, WA**
 
- - Awarded 'Teacher of the Month'
+ - TODO
+ - TODO
+ - TODO
+
+### <span>Software Engineer,  Qualtrics</span> <span>September 2017 -- May 2019</span>
+**Seattle, WA**
+
+ - Helped deliver the Employee Lifecycle XM product offering to enable companies to measure their employees' engagement at every stage of the employment lifecycle.
+ - Worked on the full-stack with JavaScript, Java, and PHP on nearly every aspect of the various EX products in the Qualtrics XM platform.
 
 ## Projects
 
-### <span>Miss Direction</span> <span>Aug 2016</span>
+### <span>Bartender's Manual</span> <span>Feb 2020 -- Present</span>
 
-A mapping engine that misguides you:
+A web and mobile application for tracking what cocktail ingredients you own and recommending cocktails for you to make. Currently at 2.3K yearly active users and growing.
 
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
+   - Built the application end-to-end using React/Next.js for the web application, Express/GraphQL for the back-end/API layer, Jetpack Compose for the Android application, and Swift UI for the iOS applicaiton.    
+   - Created an intricate hierarchical database of cocktails and ingredients powered by scraped recipes from books and websites for nearly a thousand cocktails.
+   - Developed algorithms for vector-based cocktail recommendation and hierarchical ingredient substitution.
 
 ## Education
 
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
+### <span>University of California, Los Angeles</span> <span>2013 -- 2017</span>
+**B.S. Computer Science**
 
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
+  - Relevant coursework: data structures, algorithms, computer
+graphics (OpenGL and WebGL), mathematical modeling, basic computer architecture, computer organization, assembly languages (IA-32, x86-64, MIPS), software construction, digital logic design, and Unity game design.
 
 ## Skills
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+ - **Languages**: TypeScript, JavaScript, Java, Python, Kotlin, HTML, CSS
+ - **Frameworks and Technologies**: React, Node.js, Express, LangChain/LangGraph, Spring Boot, Jetpack Compose 
