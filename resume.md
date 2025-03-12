@@ -64,4 +64,4 @@ graphics, mathematical modeling, computer architecture, assembly languages, soft
 ## Skills
 
  - **Languages**: TypeScript, JavaScript, Java, Python, Kotlin, HTML, CSS
- - **Frameworks and Technologies**: React, Node.js, Express, LangChain/LangGraph, Spring Boot, Apache Spark, Jetpack Compose 
+ - **Technologies**: React, Node.js, Express, LangChain/LangGraph, Spring Boot, Apache Spark, Jetpack Compose, GraphQL 
