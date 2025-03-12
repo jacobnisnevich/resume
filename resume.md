@@ -19,7 +19,7 @@ hand -->
 ### <span>Staff Software Engineer,  Qualtrics</span> <span>May 2023 -- Present</span>
 **Seattle, WA**
 
- - Led and architected the development of the first wave of EX AI/LLM-powered applications, including employee feedback summarization and personalized manager action recommendations.
+ - Led and architected the development of the first wave of EX (Employee Experience) AI/LLM-powered applications, including employee feedback summarization and personalized manager action recommendations.
  - Worked closely with ML platform team at Qualtrics to scale out AI features to handle organizations of up to 5,000 concurrent users, using a mixture of 3rd party and fine-tuned LLMs.
 
 ### <span>Senior Software Engineer,  Qualtrics</span> <span>May 2021 -- May 2023</span>
@@ -49,7 +49,7 @@ hand -->
 
 A web and mobile application for tracking what cocktail ingredients you own and recommending cocktails for you to make. Currently at 2.3K yearly active users and growing.
 
-   - Built the application end-to-end using React/Next.js for the web application, Express/GraphQL for the backend/API layer, Jetpack Compose for the Android application, and Swift UI for the iOS applicaiton.    
+   - Built the application end-to-end using React/Next.js for the web application, Express/GraphQL for the backend/API layer, Jetpack Compose for the Android application, and Swift UI for the iOS application.    
    - Created an intricate hierarchical database of cocktails and ingredients with recipes for nearly a thousand cocktails.
    - Developed algorithms for vector-based cocktail recommendation and hierarchical ingredient substitution.
 
@@ -64,4 +64,4 @@ graphics, mathematical modeling, computer architecture, assembly languages, soft
 ## Skills
 
  - **Languages**: TypeScript, JavaScript, Java, Python, Kotlin, HTML, CSS
- - **Frameworks and Technologies**: React, Node.js, Express, LangChain/LangGraph, Spring Boot, Jetpack Compose 
+ - **Frameworks and Technologies**: React, Node.js, Express, LangChain/LangGraph, Spring Boot, Apache Spark, Jetpack Compose 
